@@ -3,13 +3,14 @@ body {
 	background-color: #F7EBDF;
 	justify-content: center;
 	font-family: Arial, Helvetica, sans-serif;
+	margin: auto;
 }
 
 .header {
 	margin: auto;
 	height: 35%;
 	text-align: center;
-	width: 90%;
+	width: 1250px;
 	background-color: #224532
 }
 
@@ -29,7 +30,7 @@ body {
 
 .content {
 	margin: auto;
-	width: 90%;
+	width: 1250px;
 }
 
 .content #sidebar {
@@ -96,7 +97,7 @@ body {
 	margin: auto;
 	margin-top: 10px;
 	height: 10%;
-	width: 90%;
+	width: 1250px;
 	background-color: #224532;
 	text-align: center;
 }
