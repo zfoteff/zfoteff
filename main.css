@@ -1,6 +1,6 @@
 /* CSS Sheet for personal website */
 body {
-	background-color: #F7EBDF;
+	background-color: #969696;
 	justify-content: center;
 	font-family: Arial, Helvetica, sans-serif;
 	margin: auto;
@@ -11,7 +11,7 @@ body {
 	height: 35%;
 	text-align: center;
 	width: 1250px;
-	background-color: #224532
+	background-color: #003232
 }
 
 .header h1 {
@@ -34,7 +34,7 @@ body {
 }
 
 .content #sidebar {
-	background-color: #224532;
+	background-color: #003232;
 	width: 20%;
 	color: white;
 	font-size: 16px;
@@ -47,6 +47,7 @@ body {
 	background-color: #FFFFFF;
 	text-align: left;
 	font-size: 18px;
+	line-height: 25px;
 }
 
 #sidebar a {
@@ -73,6 +74,7 @@ body {
 	padding-top: 20px;
 	padding-bottom: 20px;
 	border: 2px solid #000000;
+	line-height: 27px;
 }
 
 #project-entry img {
@@ -98,7 +100,7 @@ body {
 	margin-top: 10px;
 	height: 10%;
 	width: 1250px;
-	background-color: #224532;
+	background-color: #003232;
 	text-align: center;
 }
 
@@ -121,3 +123,4 @@ body {
 	padding: 20px 0px 20px 10px;
 	display: inline-block;
 }
+
