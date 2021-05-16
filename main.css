@@ -1,4 +1,9 @@
 /* CSS Sheet for personal website */
+
+a:active {
+	color: yellow;
+}
+
 body {
 	background-color: #969696;
 	justify-content: center;
