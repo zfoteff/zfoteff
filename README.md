@@ -1,5 +1,5 @@
 # Welcome to My Page!
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zfoteff.zfoteff)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zachary-foteff/)](https://www.linkedin.com/in/zachary-foteff/)
 
 
