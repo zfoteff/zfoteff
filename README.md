@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zachary-foteff/)](https://www.linkedin.com/in/zachary-foteff/)
 
-
 Hi, my name is Zac Foteff. I am a senior at Gonzaga University pursing a Bachelors of Science in Computer Science. You can find my personal website [here](http://zfoteff.herokuapp.com) and will be updated frequently as I work to make it look as amazing as possible
 
 Here is a list of the tech and software I have experience with  
