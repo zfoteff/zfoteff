@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zachary-foteff/)](https://www.linkedin.com/in/zachary-foteff/)
 
-Hi, my name is Zac Foteff. I am a senior at Gonzaga University pursing a Bachelors of Science in Computer Science. Recently, I have accepted a full-time software engineering role at Kroger Technology. You can find my personal website [here](http://zfoteff.herokuapp.com) and will be updated frequently as I work to make it look as amazing as possible
+Hi, my name is Zac Foteff. I am a graduate of Gonzaga University, and full-time software engineer at Kroger Technology. You can find my personal website [here](http://zfoteff.herokuapp.com) and will be updated frequently as I work to make it look as amazing as possible
 
 Here is a list of the tech and software I have experience with  
 ![Python3](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
@@ -25,9 +25,10 @@ Here is a list of the tech and software I have experience with
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zfoteff&theme=blue-green)
 
+Big projects I've completed include
+
+[Senior design project](https://spokaneeconomicdashboard.herokuapp.com) for [Greater Spokane Inc.](https://greaterspokane.org). Myself and 3 other students created a web application that consumes economic data and visualizes it in a digestable format so that citizens of Spokane gain an understanding of trends in their local economy. The data is organized into key economic indicators that can provide an at-a-glace snapshot of economic performance.
 
 Im currently working on ...  
 
-[Senior design project](https://spokaneeconomicdashboard.herokuapp.com) for [Greater Spokane Inc.](https://greaterspokane.org). Myself and 3 other students are working to create a webapp that consumes economic data and visualizes it in a digestable and timely format so that citizens of Spokane can gain an understanding of the trends in their local economy. The data is organized into key economic indicators that can provide an at-a-glace snapshot of economic performace that should be understandable regardless of economic knowledge.
-
-A chat application using Python and RabbitMQ
+A Macro nutrient and exercise application with React, Django, and Postgres.
