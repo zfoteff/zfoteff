@@ -25,5 +25,6 @@ Big projects I've completed include
 
 Im currently working on ...  
 
-A Macro nutrient and exercise application with React, Django, and Postgres.
+A Lacrosse statistics and team management platform using Python/FastAPI, MySQL, and Redis
+
 
